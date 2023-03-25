@@ -1,20 +1,7 @@
-
-#include "main.h"
-/**
-  * main - print _putchar
-  * is written by okey
-  * Return: 0
-  */
+#include <stdio.h>
 
 int main(void)
 {
-_putchar('_');
-_putchar('u');
-_putchar('t');
-_putchar('c');
-_putchar('h');
-_putchar('a');
-_putchar('r');
-_putchar('\n');
+putchar('\n');
 return (0);
 }
